@@ -13,7 +13,7 @@ body{
   margin: 0;
   padding-bottom: 100px;
   font-family: "Poppins", sans-serif;
-  background-color: bisque;
+  background-color: lightblue;
   color: rgb(3, 3, 3);
   line-height: 1.6;
 }
@@ -23,8 +23,8 @@ body{
   font-weight: bold;
   text-transform: uppercase;
   padding: 20px;
-  background-color: #333;
-  color: #fff;
+  background-color: #DDD;
+  color: #333;
 }
 
 .footer {
@@ -44,8 +44,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
-  color: #fff;
+  background-color: #DDD;
+  color: #333;
   height: 60px;
   padding: 0 20px;
 }
@@ -62,7 +62,7 @@ nav li {
 }
 
 nav a {
-  color: #e3990f;
+  color: #4b81f8;
   text-decoration: none;
   padding: 10px;
   transition: background-color 0.3s ease;
@@ -167,7 +167,7 @@ header{
 }
 
 .active{
-  color: rgb(255, 255, 255);
+  color: rgb(10, 10, 10);
 }
 
 .loginForm{
@@ -239,7 +239,7 @@ header{
   color: white;
   font-weight: 700;
   background: rgb(34,193,195);
-  background: linear-gradient(90deg, rgb(171, 195, 34) 0%,     rgb(255, 174, 0) 100%);
+  background: linear-gradient(90deg, rgb(74, 169, 227) 0%,     rgb(76, 216, 165) 100%);
   border: 0px;
   cursor: pointer;
   transition: opacity 0.25s ease-out;
@@ -280,7 +280,7 @@ header{
 
 .forgotPasswordLink {
   cursor: pointer;
-  color: #ee9520;
+  color: #32dff2;
   font-weight: 600;
   text-align: right;
 }
